@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "xiaomi-sdm660/android_device_xiaomi_sdm660-common",
+    "repository":  "mracar07/android_device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
     "branch":      "havoc"
   },
