@@ -25,7 +25,7 @@
 $(call inherit-product, device/xiaomi/wayne/device.mk)
 
 # Inherit from Havoc custom product configuration
-$(call inherit-product, vendor/rr/config/common_full_phone.mk)
+$(call inherit-product, vendor/aosap/config/common_full_phone.mk)
 
 TARGET_VENDOR_PRODUCT_NAME := wayne
 
@@ -33,6 +33,6 @@ TARGET_VENDOR_PRODUCT_NAME := wayne
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_PLATFORM := SDM660
-PRODUCT_NAME := rr_wayne
+PRODUCT_NAME := aosap_wayne
 PRODUCT_DEVICE := wayne
 PRODUCT_MODEL := MI 6X
